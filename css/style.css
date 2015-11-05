@@ -12,7 +12,7 @@ html {
   overflow: auto;
 }
 body {
- background: transparent linear-gradient(to right, #101011 0%, #094D04 100%) repeat scroll 0% 0%;
+
   background: #18e2d1;
   background: -moz-linear-gradient(left,  #101011 0%,  #094D04  100%);
   background: -webkit-gradient(linear, left top, right top, color-stop(0%,#18e2d1), color-stop(100%,#7be357));
